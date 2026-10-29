@@ -586,7 +586,7 @@ These are suggestions based on the current implementation, not features that exi
 
 **shrutim** — [@shrutim156](https://github.com/shrutim156)
 
-*(The name comes from the git commit history and the GitHub handle from the link inside `Navbar.jsx`. Replace with your full name and add links such as LinkedIn or a portfolio.)*
+
 
 ---
 
